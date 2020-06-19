@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://images.pexels.com/photos/23769/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.content {
+    padding-top: 5%;
+    align-items: center;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.photo {
+    width: 20%;
+    border: #dea5ff solid 10px;
+    border-radius: 50%;
+}

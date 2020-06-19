@@ -1,0 +1,99 @@
+body {
+    background-image: linear-gradient(to right top, #252324, #2e1f29, #331b32, #33173d, #2e164b, #2e1757, #2c1964, #261b72, #371b7f, #4a198b, #5d1297, #7103a1);
+    background-position: cover;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row: 1;
+    padding: 10%;
+    width: 100%;
+    height: 50%;
+}
+
+.card {
+    padding: 5%;
+}
+
+.card-image {
+    width: 50%;
+}
+
+.card p {
+    width: 50%;
+}
+
+.card:hover {
+    -webkit-box-shadow: 7px 11px 28px 5px rgba(39, 46, 40, 0.75);
+    -moz-box-shadow: 7px 11px 28px 5px rgba(39, 46, 40, 0.75);
+    box-shadow: 7px 11px 28px 5px rgba(39, 46, 40, 0.75);
+    border-radius: 10px;
+    background: #1e023a;
+    height: 50%;
+    width: 50%;
+    z-index: 100;
+}
+
+.modal-overlay {
+    background-color: rgba(70, 6, 95, 0.733);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 60%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15%;
+    margin-top: 10%;
+}
+
+.modal.maximize {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin: 0;
+}
+
+.modal .maximodal {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 30px;
+}
+
+.modal .close-modal {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+}
+
+.modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+iframe {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    top: 5%;
+}

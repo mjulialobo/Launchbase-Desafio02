@@ -1,0 +1,24 @@
+header {
+    background-color: rgba(54, 53, 54, 0.678);
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    height: 50px;
+    width: 100px;
+}
+
+header span a {
+    color: white;
+    align-items: center;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+header span a:hover {
+    color: #701c99;
+    transition: 200ms;
+}
