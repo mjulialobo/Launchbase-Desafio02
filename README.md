@@ -23,7 +23,8 @@
 
   <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
   
-
+<img src="https://user-images.githubusercontent.com/65983895/85189152-78c6ab80-b282-11ea-80b4-5392bcd5f411.PNG"/>
+<p>*GIF does not reflect real colors </p>
   <img src ="https://user-images.githubusercontent.com/65983895/85188995-45375180-b281-11ea-8ae3-32c8bf3d8d0c.gif"/>
   
   
