@@ -23,25 +23,12 @@
 
   <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
   
-  <h3> Home Page </h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102823-d05e0c00-b1db-11ea-982c-d03c811f977f.PNG"/>
+
+  <img src ="https://user-images.githubusercontent.com/65983895/85188995-45375180-b281-11ea-8ae3-32c8bf3d8d0c.gif"/>
   
   
-  <h3> About Us </h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102826-d18f3900-b1db-11ea-81cd-7d3fb2cbb6f3.PNG"/>
+
   
-  
-  <h3> About Us- Favicon </h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102835-d3f19300-b1db-11ea-9960-7567b10c5118.PNG"/>
-  
-   <h3> Courses </h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102828-d227cf80-b1db-11ea-8307-d61fcc265458.PNG"/>
-  
-  <h3> Courses - hover </h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102829-d2c06600-b1db-11ea-92db-d6d6d39fc6f6.PNG"/>
-  
-  <h3> Courses - PopUp (can be maximized)</h3>
-  <img src ="https://user-images.githubusercontent.com/65983895/85102833-d2c06600-b1db-11ea-9611-e9d5a1f9b138.PNG"/>
   
   
 
