@@ -6,7 +6,7 @@
   Challenge 2: Rocketseat Website
 </h3>
  <p align="center"> applications developed during Rocketseat's Launchbase bootcamp </P>  
-<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> What we created? </h2>
+<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> What was created? </h2>
 <ol> <li> First HMLT: simple "home" page using HTML and CSS; </li>
 <li> Description page: simple "about us" page using HTML and CSS; </li>
 <li> Courses and iframe page: couses page using JavaScript to create a pop-up with information from the oficial Rocketseat website. </li> </ol> </p>
